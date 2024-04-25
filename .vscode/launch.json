@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Subhojit/Desktop/C++/Conditionals",
-      "program": "c:/Users/Subhojit/Desktop/C++/Conditionals/build/Debug/outDebug",
+      "cwd": "c:/Users/Subhojit/Desktop/C++/loops",
+      "program": "c:/Users/Subhojit/Desktop/C++/loops/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
