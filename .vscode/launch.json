@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Subhojit/Desktop/C++/Arrays",
-      "program": "c:/Users/Subhojit/Desktop/C++/Arrays/build/Debug/outDebug",
+      "cwd": "c:/Users/Subhojit/Desktop/C++",
+      "program": "c:/Users/Subhojit/Desktop/C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
