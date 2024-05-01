@@ -6,8 +6,9 @@ int main(){
 
     string s;
     cout<<"enter a string: ";
-    cin>>s;
-
+    // cin>>s;
+     
+     getline(cin,s); //taking input a string
     cout<<s;
     return 0;
 }
